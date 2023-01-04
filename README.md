@@ -8,6 +8,6 @@ A Quiz CLI app built with nodeJS. Let's play quiz and see.
  - Javascript
  - Replit
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://replit.com/@AbhinashBhengra/quiz-markOne?embed=true)
 
-[Live Porject > ] (https://www.replit.com/@AbhinashBhengra/quiz-markOne?embed=true)
+
